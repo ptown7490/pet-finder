@@ -1,5 +1,7 @@
 Epicodus Spring 2014 internship project for the Oregon Humane Society with the talents of:
 
+Heroku hosting: http://humane-society-pet-finder.herokuapp.com/
+
 
 Patrick McGreevy
 
